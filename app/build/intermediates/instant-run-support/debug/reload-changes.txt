@@ -1,0 +1,12 @@
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/R$style$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/R$layout$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/R$mipmap$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/R$raw$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/R$drawable$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$drawable$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/BattingView$BattingThread$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/R$id$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/R$string$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/R$integer$override.class
+CHANGED,/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/ice/battingpractice2/R$styleable$override.class

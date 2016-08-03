@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+   
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent">
+
+ 
+    <com.example.ice.battingpractice2.BattingView
+      android:id="@+id/batting"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"/>
+
+      
+      <TextView android:id="@+id/in1test" android:text=""
+		style="@style/timerText"
+		android:layout_width="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_height="wrap_content"
+		android:background="#666666" />
+
+  <Button  
+        android:id="@+id/Button01"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/fast"  
+        android:minHeight="42dp"  
+        android:textSize="16dp"></Button> 
+   <Button  
+        android:id="@+id/Button02"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/Button01"
+        android:text="@string/curve"  
+        android:minHeight="42dp"  
+        android:textSize="16dp"></Button>  
+ <Button  
+        android:id="@+id/left"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/Button02"
+        android:text="@string/left"  
+        android:minHeight="42dp"  
+        android:textSize="16dp">
+   </Button>  
+   <Button  
+        android:id="@+id/right"  
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/left"
+        android:text="@string/right"  
+        android:minHeight="42dp"  
+        android:textSize="16dp"></Button>  
+
+                  
+          <TextView
+        android:id="@+id/resultText"
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/right"
+            android:text="" />
+                    <TextView
+        android:id="@+id/resultText2"
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/resultText"
+            android:text="Single" />
+</RelativeLayout>

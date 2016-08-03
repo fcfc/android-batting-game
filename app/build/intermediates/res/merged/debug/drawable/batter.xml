@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/hit1" android:duration="50" />
+    <item android:drawable="@drawable/hit2" android:duration="50" />
+    <item android:drawable="@drawable/hit3" android:duration="50" />
+    <item android:drawable="@drawable/hit4" android:duration="50" />
+    <item android:drawable="@drawable/hit5" android:duration="50" />
+    <item android:drawable="@drawable/hit6" android:duration="50" />
+    <item android:drawable="@drawable/hit7" android:duration="50" />
+    <item android:drawable="@drawable/hit8" android:duration="50" />
+    <item android:drawable="@drawable/hit9" android:duration="50" />
+    <item android:drawable="@drawable/hit10" android:duration="50" />
+    <item android:drawable="@drawable/hit11" android:duration="50" />
+    <item android:drawable="@drawable/hit12" android:duration="50" />
+    <item android:drawable="@drawable/hit13" android:duration="50" />
+    <item android:drawable="@drawable/hit14" android:duration="50" />
+    <item android:drawable="@drawable/hit15" android:duration="50" />
+    <item android:drawable="@drawable/hit16" android:duration="50" />
+    <item android:drawable="@drawable/hit17" android:duration="50" />
+    <item android:drawable="@drawable/hit18" android:duration="50" />
+    <item android:drawable="@drawable/hit19" android:duration="50" />
+    <item android:drawable="@drawable/hit20" android:duration="50" />
+    <item android:drawable="@drawable/hit21" android:duration="50" />
+    <item android:drawable="@drawable/hit22" android:duration="50" />
+    <item android:drawable="@drawable/hit23" android:duration="50" />
+    <item android:drawable="@drawable/hit24" android:duration="50" />
+    <item android:drawable="@drawable/hit25" android:duration="50" />
+    <item android:drawable="@drawable/hit26" android:duration="50" />
+    <item android:drawable="@drawable/hit27" android:duration="50" />
+    <item android:drawable="@drawable/hit28" android:duration="50" />
+    <item android:drawable="@drawable/hit29" android:duration="50" />
+</animation-list>

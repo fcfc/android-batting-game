@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/res/merged/debug/raw/pop.mp3",
+        "source": "/home/ice/Desktop/workspace/BattingPractice2/app/src/main/res/raw/pop.mp3"
+    },
+    {
+        "merged": "/home/ice/Desktop/workspace/BattingPractice2/app/build/intermediates/res/merged/debug/raw/homerun.mp3",
+        "source": "/home/ice/Desktop/workspace/BattingPractice2/app/src/main/res/raw/homerun.mp3"
+    }
+]
